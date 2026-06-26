@@ -245,21 +245,27 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
+# 📸 Application Screenshots
 
-> Add screenshots here after uploading your project.
 
-Example:
 
-```
-assets/dashboard.png
+## 📊 Dashboard
 
-assets/chat.png
-
-assets/summary.png
-```
+![Dashboard](assets/dashboard.png)
 
 ---
+
+## 📑 AI Summary
+
+![Summary](assets/summary.png)
+
+---
+## 📑 AI Chat
+
+![Summary](assets/chat.png)
+
+---
+
 
 # 🚀 Future Enhancements
 
