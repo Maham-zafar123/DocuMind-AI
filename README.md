@@ -275,11 +275,6 @@ assets/summary.png
 
 ---
 
-# 📌 Resume Highlight
-
-**Developed DocuMind AI, an intelligent multi-document analysis platform using Google Gemini and Retrieval-Augmented Generation (RAG). Implemented semantic search, context-aware question answering, AI-powered summarization, document comparison, quiz generation, flashcard creation, PDF report generation, and a modern Streamlit interface supporting multiple document formats.**
-
----
 
 # 👩‍💻 Author
 
@@ -289,9 +284,9 @@ Software Engineering Graduate
 
 AI | Machine Learning | Generative AI | Python Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Maham-zafar123
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://linkedin.com/in/maham-zafar-84695726b/
 
 ---
 
